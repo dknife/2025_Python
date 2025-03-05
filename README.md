@@ -22,5 +22,4 @@ ymkang@tu.ac.kr
 
 ##### 강의 노트
 
-
-
+[강의 1 - 파이썬이란?](https://github.com/dknife/2025_Python/raw/main/Lec/_PyPS_1%EC%9E%A5_%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%86%8C%EA%B0%9C.pdf)
